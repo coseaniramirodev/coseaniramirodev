@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Ramiro 👋
 
-<!--
-**coseaniramirodev/coseaniramirodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack con foco en Python y React.
+Vivo en Córdoba, Argentina 🇦🇷
 
-Here are some ideas to get you started:
+## 🛠️ Stack
+* **Backend:** Python, FastAPI, PostgreSQL
+* **Frontend:** React, JavaScript
+* **Tools:** Git, Docker (aprendiendo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos
+| Proyecto | Descripción | Tech |
+|----------|-------------|------|
+| [Expense Tracker](link) | App de seguimiento de gastos con auth JWT | FastAPI + React |
+
+## 📫 Contacto
+* Email: (coseaniramiro@gmail.com)
